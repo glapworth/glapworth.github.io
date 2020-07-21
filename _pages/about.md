@@ -27,8 +27,8 @@ I programed the ZX Specturm, BBC Micro, Acorn Archemedies (ARM!), PC, anything I
 I was 16.  The rush I had when I wrote and ran code was just fantastic.  I remember having my PS/2 (I think it was a model 55 - but don't quote me on that), and installing
 Windows 3.11.  I remember the first time I installed OS/2 Warp. BeOS. Linux. BSD.  Every new operating system caused a further explosion in my head. WOW!
 
-So here I am, almost 40. I've been programming now over 30 years by my own admission. I'm a software engineer by trade (of course). My proudest achievements though
-are my three children. I also play the Ukulele.  
+So here I am, almost 40. I've been programming now over 30 years by my own admission. I'm a software engineer by trade (of course). My proudest achievement
+is my happy family, I have a wonderful wife and three brilliant children. I also play the Ukulele.  
 
 I wonder what sort of things I'll post in the blog?  
 
