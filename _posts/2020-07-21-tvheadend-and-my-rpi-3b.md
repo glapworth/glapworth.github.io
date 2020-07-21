@@ -7,7 +7,7 @@ tags:
   - linux
 ---
 I recently had a problem with my chimney - a pigeon flew down the hole and decided to nest in the cavity approximately 10 inches
-from the vent in the wall next to my head when I sleep.  The problem occoured because a few years ago during a storm, the cowl on 
+from the vent in the wall next to my head when I sleep.  The problem occurred because a few years ago during a storm, the cowl on 
 the chimney blew off.  Being proactive I considered fixing it after the winter had died down somewhat.  My roof is slate, and it'd 
 be dangerous for me to go up there whilst it was slippery.  Well, life happened and I promptly forgot about the cowl, that is until I 
 heard the not so soothing coo of my new lodger.
@@ -30,5 +30,7 @@ If you're like me, and wanted to run Ubuntu Server on the RPI with TVHeadend and
 the reason is because of AppArmor which is stopping you from accessing the `/dev/dvb/*` device.  The simple answer is:
 
 `sudo snap connect tvheadend:dvb`
+
+Don't forget to restart tvheadend afterwards.
 
 I don't like this snap thing.  Call me a fuddy-duddy.
