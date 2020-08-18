@@ -15,8 +15,6 @@ D-PAD.
 
 I stumbled across a post [^1] by Mushthaq Mohammed discussing using Flutter on Android TV and in the article, I found this little 
 snippet:
-[I'm a reference-style link](Arbitrary case-insensitive reference text)
-
 
 ```dart
 return Shortcuts(
