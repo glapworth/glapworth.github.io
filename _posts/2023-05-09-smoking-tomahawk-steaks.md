@@ -1,10 +1,10 @@
 ---
-title: "Smoking Tomohawk Steaks"
+title: "Smoking Tomahawk Steaks"
 categories:
   - BBQ
 tags:
   - Food
-excerpt: I recently purchased a new smoker, and had to try it out with some Tomohawk steaks.
+excerpt: I recently purchased a new smoker, and had to try it out with some Tomahawk steaks.
 ---
 
 <figure>
